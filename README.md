@@ -28,6 +28,4 @@
     ExecutableFiles
 
         bit文件
-    
-    video
-        presentation
+
